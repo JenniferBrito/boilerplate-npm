@@ -1,6 +1,6 @@
 {
-	"author": "Jennifer Brito",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jennifer Brito",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
